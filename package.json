@@ -1,6 +1,6 @@
 {
   "name": "hal-spidernight",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Hal's GitHub profile card — run with `npx hal-spidernight`",
   "type": "module",
   "bin": {
