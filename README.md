@@ -2,9 +2,12 @@
 
 Software Engineer.
 
+
 ```sh
 npx hal-spidernight
 ```
 
-- Site — <https://hal-spidernight.void.app/>
-- X — <https://x.com/hal_spidernight>
+
+- [LIXIL Corporation.](https://www.lixil.com/)
+- [Site](https://hal-spidernight.void.app/)
+- [X(Twitter)](https://x.com/hal_spidernight)
